@@ -4,54 +4,63 @@
         "id": 101,
         "nom": "jean original",
         "categorie": "Vetement",
-        "prix": 350
+        "prix": 350,
+        "stock": 12
     },
     {
         "id": 102,
         "nom": "T-shirt blanc",
         "categorie": "Vetement",
+        "stock": 7,
         "prix": 268
     },
     {
         "id": 103,
         "nom": "Boucles d'oreilles",
         "categorie": "Accessoires",
+        "stock": 1,
         "prix": 450
     },
     {
         "id": 104,
         "nom": "Bracelets acier inoxidable",
         "categorie": "Accessoires",
+        "stock": 45,
         "prix": 430
     },
     {
         "id": 105,
         "nom": "Robe",
         "categorie": "Vetement",
+        "stock": 10,
         "prix": 350
     },
     {
         "id": 106,
         "nom": "Collier",
         "categorie": "Accessoires",
+        "stock": 8,
         "prix": 100
     },
     {
         "id": 107,
         "nom": "Blush",
         "categorie": "Maquillage",
+        "stock": 67,
         "prix": 1200
     },
     {
         "id": 108,
         "nom": "Mascara",
         "categorie": "Maquillage",
+        "stock": 2,
         "prix": 250
     },
     {
         "id": 109,
         "nom": "Rouge a levres",
         "categorie": "Maquillage",
+        "stock": 4,
         "prix": 300
     }
 ]
