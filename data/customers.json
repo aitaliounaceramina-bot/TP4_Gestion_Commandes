@@ -3,37 +3,37 @@
     {
         "id": 1,
         "nom": "Amina",
-        "prenom": "El Amrani",
-        "email": "amina@example.com"
+        "prenom": "Ait Ali Ounacer",
+        "email": "amina@aitali.com"
     },
     {
         "id": 2,
         "nom": "Youssef",
-        "prenom": "Benali",
-        "email": "youssef@example.com"
+        "prenom": "El kouti",
+        "email": "youssef@el.com"
     },
     {
         "id": 3,
         "nom": "Sara",
-        "prenom": "Alaoui",
-        "email": "sara@example.com"
+        "prenom": "jaroti",
+        "email": "sara@jr.com"
     },
     {
         "id": 4,
-        "nom": "Omar",
-        "prenom": "Idrissi",
-        "email": "omar@example.com"
+        "nom": "Salma",
+        "prenom": "Rahel",
+        "email": "salma@rahel.com"
     },
     {
         "id": 5,
         "nom": "Salma",
-        "prenom": "Berrada",
-        "email": "salma@example.com"
+        "prenom": "mourabet",
+        "email": "salma@mour.com"
     },
     {
         "id": 6,
         "nom": "Hamza",
-        "prenom": "Tazi",
-        "email": "hamza@example.com"
+        "prenom": "walid",
+        "email": "hamza@w.com"
     }
 ]
