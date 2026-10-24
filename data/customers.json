@@ -4,36 +4,50 @@
         "id": 1,
         "nom": "Amina",
         "prenom": "Ait Ali Ounacer",
-        "email": "amina@aitali.com"
-    },
+        "email": "amina@aitali.com",
+        "city" : "Marrakech",
+        "active": true
+        },
+    
     {
         "id": 2,
         "nom": "Youssef",
         "prenom": "El kouti",
-        "email": "youssef@el.com"
+        "email": "youssef@el.com",
+        "city" : "Marrakech",
+        "active": true
     },
     {
         "id": 3,
         "nom": "Sara",
         "prenom": "jaroti",
-        "email": "sara@jr.com"
+        "email": "sara@jr.com",
+        "city" : "Rabat",
+        "active": false
     },
     {
         "id": 4,
         "nom": "Salma",
         "prenom": "Rahel",
-        "email": "salma@rahel.com"
+        "email": "salma@rahel.com",
+        "city" : "Tanger",
+        "active": true
     },
     {
         "id": 5,
         "nom": "Salma",
         "prenom": "mourabet",
-        "email": "salma@mour.com"
+        "email": "salma@mour.com",
+        "city" : "Casablanca",
+        "active": true
     },
     {
         "id": 6,
         "nom": "Hamza",
         "prenom": "walid",
-        "email": "hamza@w.com"
+        "email": "hamza@w.com",
+        "city" : "Fes",
+        "active": false
+        
     }
 ]
