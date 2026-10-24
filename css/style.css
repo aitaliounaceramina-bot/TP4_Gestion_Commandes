@@ -1,0 +1,166 @@
+
+:root {
+    --fond: #081525;
+    --carte: #101e32;
+    --rose: #ff536b;
+    --texte: #ffffff;
+    --texte-secondaire: #b8c5d6;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: var(--fond);
+    color: var(--texte);
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: var(--carte);
+    border-bottom: 2px solid var(--rose);
+}
+
+header h1 {
+    color: var(--rose);
+    font-weight: bold;
+}
+
+header p {
+    color: var(--texte-secondaire);
+}
+
+.section-title {
+    color: var(--rose);
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+}
+
+.indicator-card,
+.filter-card,
+.detail-card {
+    height: 100%;
+    background-color: var(--carte);
+    border: 1px solid #263b55;
+    border-radius: 12px;
+    padding: 20px;
+}
+
+.indicator-card {
+    border-left: 4px solid var(--rose);
+}
+
+.indicator-card h3 {
+    color: var(--texte-secondaire);
+    font-size: 1rem;
+}
+
+.indicator-card .indicator-value {
+    color: var(--rose);
+    font-size: 1.8rem;
+    font-weight: bold;
+    overflow-wrap: anywhere;
+}
+
+.form-label {
+    color: var(--texte);
+}
+
+.form-control,
+.form-select {
+    background-color: #f4f6fa;
+    color: #101e32;
+}
+
+.form-control:focus,
+.form-select:focus {
+    border-color: var(--rose);
+    box-shadow: 0 0 0 0.2rem rgb(255 83 107 / 20%);
+}
+
+.btn-outline-light:hover {
+    background-color: var(--rose);
+    border-color: var(--rose);
+    color: white;
+}
+
+.table {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.table thead th {
+    color: var(--rose);
+    white-space: nowrap;
+}
+
+.table td {
+    vertical-align: middle;
+}
+
+.status {
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    white-space: nowrap;
+}
+
+.status-en-cours {
+    background-color: #664d03;
+    color: #ffda6a;
+}
+
+.status-livree {
+    background-color: #0f5132;
+    color: #75e0a7;
+}
+
+.status-annulee {
+    background-color: #842029;
+    color: #ffb3ba;
+}
+
+.btn-detail {
+    background-color: var(--rose);
+    color: white;
+    border: none;
+}
+
+.btn-detail:hover {
+    background-color: #e83e59;
+    color: white;
+}
+
+.detail-card h3,
+.detail-card h4 {
+    color: var(--rose);
+}
+
+.detail-card p {
+    overflow-wrap: anywhere;
+}
+
+footer {
+    background-color: var(--carte);
+    color: var(--texte-secondaire);
+    border-top: 1px solid #263b55;
+}
+
+@media (max-width: 576px) {
+    header h1 {
+        font-size: 1.7rem;
+    }
+
+    .indicator-card,
+    .filter-card,
+    .detail-card {
+        padding: 15px;
+    }
+
+    .indicator-card .indicator-value {
+        font-size: 1.5rem;
+    }
+}

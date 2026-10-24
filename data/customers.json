@@ -1,0 +1,39 @@
+
+[
+    {
+        "id": 1,
+        "nom": "Amina",
+        "prenom": "El Amrani",
+        "email": "amina@example.com"
+    },
+    {
+        "id": 2,
+        "nom": "Youssef",
+        "prenom": "Benali",
+        "email": "youssef@example.com"
+    },
+    {
+        "id": 3,
+        "nom": "Sara",
+        "prenom": "Alaoui",
+        "email": "sara@example.com"
+    },
+    {
+        "id": 4,
+        "nom": "Omar",
+        "prenom": "Idrissi",
+        "email": "omar@example.com"
+    },
+    {
+        "id": 5,
+        "nom": "Salma",
+        "prenom": "Berrada",
+        "email": "salma@example.com"
+    },
+    {
+        "id": 6,
+        "nom": "Hamza",
+        "prenom": "Tazi",
+        "email": "hamza@example.com"
+    }
+]

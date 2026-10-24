@@ -1,0 +1,99 @@
+
+[
+    {
+        "id": 1001,
+        "customerId": 1,
+        "date": "2026-10-01",
+        "statut": "En cours",
+        "items": [
+            {"productId": 101, "quantity": 1},
+            {"productId": 103, "quantity": 2}
+        ]
+    },
+    {
+        "id": 1002,
+        "customerId": 2,
+        "date": "2026-10-02",
+        "statut": "Livrée",
+        "items": [
+            {"productId": 104, "quantity": 2},
+            {"productId": 105, "quantity": 1}
+        ]
+    },
+    {
+        "id": 1003,
+        "customerId": 3,
+        "date": "2026-10-03",
+        "statut": "En cours",
+        "items": [
+            {"productId": 102, "quantity": 1}
+        ]
+    },
+    {
+        "id": 1004,
+        "customerId": 4,
+        "date": "2026-10-04",
+        "statut": "Annulée",
+        "items": [
+            {"productId": 106, "quantity": 3}
+        ]
+    },
+    {
+        "id": 1005,
+        "customerId": 5,
+        "date": "2026-10-05",
+        "statut": "Livrée",
+        "items": [
+            {"productId": 107, "quantity": 1},
+            {"productId": 108, "quantity": 2}
+        ]
+    },
+    {
+        "id": 1006,
+        "customerId": 6,
+        "date": "2026-10-06",
+        "statut": "En cours",
+        "items": [
+            {"productId": 109, "quantity": 1},
+            {"productId": 104, "quantity": 1}
+        ]
+    },
+    {
+        "id": 1007,
+        "customerId": 1,
+        "date": "2026-10-07",
+        "statut": "Livrée",
+        "items": [
+            {"productId": 105, "quantity": 2}
+        ]
+    },
+    {
+        "id": 1008,
+        "customerId": 3,
+        "date": "2026-10-08",
+        "statut": "En cours",
+        "items": [
+            {"productId": 101, "quantity": 1},
+            {"productId": 106, "quantity": 2}
+        ]
+    },
+    {
+        "id": 1009,
+        "customerId": 2,
+        "date": "2026-10-09",
+        "statut": "Annulée",
+        "items": [
+            {"productId": 103, "quantity": 1}
+        ]
+    },
+    {
+        "id": 1010,
+        "customerId": 5,
+        "date": "2026-10-10",
+        "statut": "Livrée",
+        "items": [
+            {"productId": 102, "quantity": 2},
+            {"productId": 108, "quantity": 1}
+        ]
+    }
+]

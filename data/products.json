@@ -1,0 +1,57 @@
+
+[
+    {
+        "id": 101,
+        "nom": "Ordinateur portable",
+        "categorie": "Informatique",
+        "prix": 6500
+    },
+    {
+        "id": 102,
+        "nom": "Ecran 24 pouces",
+        "categorie": "Informatique",
+        "prix": 1800
+    },
+    {
+        "id": 103,
+        "nom": "Clavier mecanique",
+        "categorie": "Accessoires",
+        "prix": 450
+    },
+    {
+        "id": 104,
+        "nom": "Souris sans fil",
+        "categorie": "Accessoires",
+        "prix": 180
+    },
+    {
+        "id": 105,
+        "nom": "Casque audio",
+        "categorie": "Accessoires",
+        "prix": 350
+    },
+    {
+        "id": 106,
+        "nom": "Cle USB 64 Go",
+        "categorie": "Accessoires",
+        "prix": 100
+    },
+    {
+        "id": 107,
+        "nom": "Chaise de bureau",
+        "categorie": "Bureau",
+        "prix": 1200
+    },
+    {
+        "id": 108,
+        "nom": "Lampe de bureau",
+        "categorie": "Bureau",
+        "prix": 250
+    },
+    {
+        "id": 109,
+        "nom": "Support ordinateur",
+        "categorie": "Bureau",
+        "prix": 300
+    }
+]
