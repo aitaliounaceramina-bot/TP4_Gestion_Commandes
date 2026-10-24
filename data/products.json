@@ -2,56 +2,56 @@
 [
     {
         "id": 101,
-        "nom": "Ordinateur portable",
-        "categorie": "Informatique",
-        "prix": 6500
+        "nom": "jean original",
+        "categorie": "Vetement",
+        "prix": 350
     },
     {
         "id": 102,
-        "nom": "Ecran 24 pouces",
-        "categorie": "Informatique",
-        "prix": 1800
+        "nom": "T-shirt blanc",
+        "categorie": "Vetement",
+        "prix": 268
     },
     {
         "id": 103,
-        "nom": "Clavier mecanique",
+        "nom": "Boucles d'oreilles",
         "categorie": "Accessoires",
         "prix": 450
     },
     {
         "id": 104,
-        "nom": "Souris sans fil",
+        "nom": "Bracelets acier inoxidable",
         "categorie": "Accessoires",
-        "prix": 180
+        "prix": 430
     },
     {
         "id": 105,
-        "nom": "Casque audio",
-        "categorie": "Accessoires",
+        "nom": "Robe",
+        "categorie": "Vetement",
         "prix": 350
     },
     {
         "id": 106,
-        "nom": "Cle USB 64 Go",
+        "nom": "Collier",
         "categorie": "Accessoires",
         "prix": 100
     },
     {
         "id": 107,
-        "nom": "Chaise de bureau",
-        "categorie": "Bureau",
+        "nom": "Blush",
+        "categorie": "Maquillage",
         "prix": 1200
     },
     {
         "id": 108,
-        "nom": "Lampe de bureau",
-        "categorie": "Bureau",
+        "nom": "Mascara",
+        "categorie": "Maquillage",
         "prix": 250
     },
     {
         "id": 109,
-        "nom": "Support ordinateur",
-        "categorie": "Bureau",
+        "nom": "Rouge a levres",
+        "categorie": "Maquillage",
         "prix": 300
     }
 ]
