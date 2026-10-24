@@ -6,9 +6,9 @@ Application web de gestion des commandes, des clients et des produits.
 
 ## Technologies utilisées
 - HTML5
-- CSS3
-- Bootstrap 5
-- JavaScript ES Modules
+- CSS
+- Bootstrap
+- JavaScript
 - JSON
 - Fetch API
 - Git et GitHub
@@ -25,7 +25,7 @@ Application web de gestion des commandes, des clients et des produits.
 
 ## Structure du projet
 - `index.html` : structure de la page.
-- `style.css` : styles de l'application.
+- `css/style.css` : styles de l'application.
 - `js/app.js` : initialisation et événements.
 - `js/state.js` : état de l'application.
 - `js/dataService.js` : chargement des données.
